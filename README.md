@@ -3,4 +3,4 @@ Project that tracks field goal % and has mini-games, like shots in 30. Shots are
 
 ✍️Code can be found in the basketball_buddy folder.
 
-⚡️Schematics can be found in the BasketballBuddySchematics folders 
+⚡️Schematics can be found in the BasketballBuddySchematics and the TinkercadSchematics folders 
